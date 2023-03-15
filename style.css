@@ -69,6 +69,18 @@ img {
    border-radius: 10px;
 }
 
+#redColor {
+    color: red;
+}
+
+#redBlue {
+    color: blue;
+}
+
+#redGreen {
+    color: green;
+}
+
 @media screen and (min-width: 1500px) {
     
     #container {
